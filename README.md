@@ -12,4 +12,4 @@ Today's Progress: Today is all about setting up what I need for the challenge. I
 
 Thoughts: I will be adding some thoughts on each of the steps I take, what I found hard, what I found easy and where relevant I will add links to the resources I have used to solve any issues I was having. I will try to keep these notes to the point though there will be code to go with each of the days I will try to keep the code commented on anywhere I feel will make sense.
 
-Link to work: // link a helloworld code file
+Link to work: [Hello World Example](https://github.com/indrixdev/100DaysOfCodePlan/blob/main/Day%200/Helloworld.java)
