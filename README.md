@@ -1,4 +1,4 @@
-# 100 Days Of Code Templates
+# 100 Days Of Code Plan
 
 General outline of the path to be followed for this attempt at the 100 Days of code challenge.
 
